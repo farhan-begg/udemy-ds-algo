@@ -28,6 +28,7 @@ function same(arr1, arr2){
     }
     return true;
 }
+// time complexity n^2 
 console.log(same([1,2,3], [4,1,9]))
 
 
@@ -61,6 +62,7 @@ function same1(arr1, arr2){
     }
     return true
 }
+// Time Complexity - O(n)
 
 console.log(same1([1,2,3,2,5], [9,1,4,4,11]))
 same([1,2,3,2,5], [9,1,4,4,11])
