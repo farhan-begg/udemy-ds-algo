@@ -41,8 +41,10 @@ Very useful for keeping track of a subset of data in an array/string etc
 
 # Recursion 
 - a process (a function in our case ) that calls itself 
-why is it important?
-- used all the time its everywhere
-- json.parse/json.stringify
-- Dom traversal algorithims and document.getElementbyld
-- object traversal 
+- why is it important?
+    - used all the time its everywhere
+    - json.parse/json.stringify
+    - Dom traversal algorithims and document.getElementbyld
+    - object traversal 
+    - data structures
+    - its sometimes cleaner alternative to iteration
