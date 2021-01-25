@@ -28,3 +28,4 @@ function countUniqueValues(arr){
         return i + 1
 }
 console.log(countUniqueValues([1,1,1,1,2])) // 2
+// time complexity O(n)
