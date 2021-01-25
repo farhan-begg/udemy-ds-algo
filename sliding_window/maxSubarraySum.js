@@ -16,11 +16,9 @@ for (let i = 0; i < arr.length - num + 1; i ++ ){
 }
     return max
 }
-
 maxSubarrySum([2,3,4,5], 3)
 
 // sliding window approach
-
 function maxSubarrySum(arr, num){
     let maxSum = 0;
     let tempSum = 0;
